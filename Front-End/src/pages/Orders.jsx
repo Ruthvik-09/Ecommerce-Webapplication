@@ -82,7 +82,7 @@ export function Orders (){
                         </div>
 
                         <div class="product-actions">
-                        <a href="tracking.html">
+                        <a href="tracking">
                             <button class="track-package-button button-secondary">
                             Track package
                             </button>
@@ -110,7 +110,7 @@ export function Orders (){
                         </div>
 
                         <div class="product-actions">
-                        <a href="tracking.html">
+                        <a href="tracking">
                             <button class="track-package-button button-secondary">
                             Track package
                             </button>
@@ -161,7 +161,7 @@ export function Orders (){
                         </div>
 
                         <div class="product-actions">
-                        <a href="tracking.html">
+                        <a href="tracking">
                             <button class="track-package-button button-secondary">
                             Track package
                             </button>
