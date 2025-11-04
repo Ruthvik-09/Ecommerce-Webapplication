@@ -2,6 +2,7 @@ import './header.css'
 import './HomePage.css'
 
 export function HomePage (){
+    <title>Ecommerce website</title>
     return (
         <>
         <div className="header">
@@ -23,7 +24,7 @@ export function HomePage (){
             </div>
 
             <div className="right-section">
-                <a className="orders-link header-link" href="orders.html">
+                <a className="orders-link header-link" href="orders">
 
                 <span className="orders-text">Orders</span>
                 </a>
